@@ -1,0 +1,20 @@
+1.reading out canser dataset
+
+data processing
+1.We can find the dimensions of the data set using the panda dataset ‘shape’
+2.Cancer data set dimensions : (569, 32)
+
+3.Diagnosis’ is the column which we are going to predict , 
+which says if the cancer is M = malignant or B = benign.
+ 1 means the cancer is malignant and 0 means benign. We can identify that out of the 569 persons, 357 are labeled as B (benign) and 212 as M (malignant).
+
+4.data pre processing
+Missing or Null Data points
+We can find any missing or null data points of the data set (if there is any) using
+
+Phase 2 — Categorical Data to numaric
+
+phase-4 Model Selection
+
+#Algorithm selection for Predicting the best results.
+#Using Logistic Regression Algorithm to the Training Set
